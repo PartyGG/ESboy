@@ -1,4 +1,4 @@
-# ESboy – GAME BOY&trade; emulator [![Build Status](https://travis-ci.org/loociano/ESboy.svg?branch=master)](https://travis-ci.org/loociano/ESboy)
+# ESboy – GAME BOY&trade; emulator [![Build Status](https://travis-ci.org/partygg/ESboy.svg?branch=master)](https://travis-ci.org/partygg/ESboy)
 
 ![Tetris DX running on Chrome](https://github.com/loociano/ESboy/blob/master/screenshots/2017-02-09%2020_06_20-ESboy.png?raw=true)
 
@@ -8,7 +8,7 @@ Goal of this project is to write the GAME BOY&trade; CPU and rest of controllers
 
 ## Play 
 
-* [Try it online!](http://esboy.loociano.com) 
+* [Try it online!](https://partygg.github.io/ESboy/) 
 * Offline: clone/download this repository and open `index.html` in your browser.
 
 ### Hardware accuracy 
